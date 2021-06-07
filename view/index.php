@@ -45,7 +45,7 @@ if(!isset($_SESSION['access_token'])){
 ?>
 
 <html>
-
+//ini edit github Ardi
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <tittle></tittle>
