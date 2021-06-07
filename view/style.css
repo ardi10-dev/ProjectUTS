@@ -1,0 +1,22 @@
+body{
+    background-image:url(../gambar/images23.png);
+    background-repeat: no-repeat;
+    background-size: 2000px;
+}
+p{
+    margin-top: 30px;
+}
+select{
+    margin-top: 20px;
+   
+}
+.input1{
+    margin-top: 20px;
+}
+.input2{
+    margin-top: 20px;
+    margin-left: 55%;
+}
+.p1{
+    margin-top: 10%;
+}
